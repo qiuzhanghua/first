@@ -1,2 +1,3 @@
 (library
- (name first))
+ (name first)
+ (libraries owl plplot))

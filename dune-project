@@ -19,7 +19,7 @@
  (name first)
  (synopsis "learn ocaml")
  (description "learn ocaml step by step")
- (depends ocaml dune)
+ (depends ocaml dune owl)
  (tags
   (topics "ocaml" "learn")))
 

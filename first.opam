@@ -12,6 +12,7 @@ bug-reports: "https://github.com/qiuzhanghua/first/issues"
 depends: [
   "ocaml"
   "dune" {>= "3.12"}
+  "owl"
   "odoc" {with-doc}
 ]
 build: [

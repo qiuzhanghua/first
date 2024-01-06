@@ -1,4 +1,4 @@
 (executable
  (public_name first)
  (name main)
- (libraries first))
+ (libraries first owl plplot))
